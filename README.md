@@ -4,4 +4,4 @@ Tutorial Repository
 
 ## 5주차 실습화면 (2022-3-31)
 
-<img width="" heights=="" src=.pic/5주차실습화면.PNG></img> 
+<img width="" heights=="" src=./pic/5주차실습화면.PNG></img> 
